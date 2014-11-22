@@ -1,0 +1,19 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "authors": [
+    "Brandon Griffin <bgriffin@qualtrax.com>"
+  ],
+  "description": "\"Extreme tech training\"",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "toastr": "~2.1.0",
+    "angular": "~1.3.0",
+    "angular-resource": "~1.3.0",
+    "angular-route": "~1.3.0",
+    "bootstrap": "~3.3.0",
+    "angular-mocks": "~1.3.2"
+  }
+}
